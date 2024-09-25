@@ -22,3 +22,6 @@ return {
         15644861772,  -- Flame Hood
     }
 }
+
+
+Print("Arguments Detected")
