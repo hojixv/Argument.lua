@@ -24,4 +24,4 @@ return {
 }
 
 
-Print("Arguments Detected")
+print 'Arguments Detected'
