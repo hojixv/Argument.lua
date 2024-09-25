@@ -23,5 +23,3 @@ return {
     }
 }
 
-
-print 'Arguments Detected'
